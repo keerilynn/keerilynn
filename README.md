@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @keerilynn
-- 👀 I’m interested in all things data
+- 👋 Hi, I’m @keerilynn (Keeri Tramm)
+- 👀 I’m interested in all things data and accessibility.
 - 🌱 I’m currently learning full stack web development so I can display the data I work on even more!
 - 💞️ I’m looking to collaborate on open source projects. I'm brand new to this so looking to help with documentation.
 - 📫 Send me a github message or DM me on twitter @LynnKeeri
